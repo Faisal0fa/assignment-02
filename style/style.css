@@ -471,7 +471,7 @@ select {
     font-weight: 600;
 }
 
-/* footer-section */
+/* footer-section css start*/
 .footer-section {
     background-color: var(--bg-video);
 }
